@@ -1,0 +1,29 @@
+
+.container{
+    width: 100%;
+    background-color: rgb(248, 243, 243);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+
+}
+.calculator{
+    background-color:rgb(115, 102, 102);
+    padding: 20px;
+    border-radius: 10px;
+}   
+.calculator input{
+    width: 149px;
+    height: 30px;
+}
+.button{
+    border-radius: 4px;
+    background-size: auto;
+    margin: 10px;
+    width: 30px;
+    height: 30px;
+    box-shadow: 2px 2px 15px;
+    margin: 10px;
+   
+}
